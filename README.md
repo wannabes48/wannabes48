@@ -8,7 +8,6 @@ I thrive on problem-solving, innovation, and bringing ideas to life through code
 
 🔥 What I'm Working On:<br/>
 QuickDrop – A Django-powered crowdsourced delivery system.<br/>
-Opinion Mining System – A web-based AI tool for analyzing product reviews.<br/>
 Django & React Integration – Exploring OTP authentication and secure user flows.<br/>
 💡 Tech Stack:<br/>
 Languages: Python, Java, JavaScript<br/>
