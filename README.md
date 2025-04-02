@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Daniel Siro!
 
 Computer Science student at MSU<br/>
-🚀 Architect turned Developer | AI & Web Enthusiast<br/>
+🚀 Developer | AI & Web Enthusiast<br/>
 
 I'm an engineer by dream, but my passion for technology led me into the world of software development.<br/>
 I thrive on problem-solving, innovation, and bringing ideas to life through code.<br/>
